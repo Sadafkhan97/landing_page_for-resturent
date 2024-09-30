@@ -1,4 +1,4 @@
-# Introduction
+# landing page for restaurants
 I am Sadaf Khan, a front-end developer with expertise in creating modern, responsive websites. This repository features a fully responsive landing page designed specifically for restaurants, showcasing an elegant and user-friendly interface.
 
 # Objectives
